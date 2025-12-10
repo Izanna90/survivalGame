@@ -1,4 +1,4 @@
-# Survival Game
+# Survival Game 7702254 Theo Fisch Dewailly
 
 Third-person survival prototype built with Unity. Move with ZQSD, orbit the camera with the mouse, throw grenades, avoid enemy grenades and mines, and interact with the world (chest/door). Enemy AI uses NavMesh to chase and return. Includes ragdoll deaths, health UI, and ambience audio.
 
